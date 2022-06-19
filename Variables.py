@@ -1,5 +1,3 @@
-import email
-
 
 nombre = "Sergio"
 apellidos = "Paton Garcia"
